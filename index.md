@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Hi, stranger!
 
-I'm glad you are here. I plan to talk about ...
+It's nice to have your visit here. __this is my very first__ blog with github. 
+
